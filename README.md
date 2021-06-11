@@ -2,6 +2,8 @@
 
 A sorting algorithm visualizer using python and tkinter.
 
+![Alt text](https://repository-images.githubusercontent.com/375998182/da68d100-caf6-11eb-90be-57b89dcfda04)
+
 run ```main.py``` to start program.
 
 - - -
